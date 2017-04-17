@@ -1,0 +1,11 @@
+#typescript ignores
+/node_modules
+/*.js
+/*.js.map
+/*.d.ts
+/lib/*.js
+/lib/*.js.map
+/lib/*.d.ts
+
+#project ignores
+/resources
